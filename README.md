@@ -1,3 +1,4 @@
+<img width="1920" height="1920" alt="logo" src="https://github.com/user-attachments/assets/b418705a-393c-4153-90a3-936b093458c3" />
 # 📺 YTdwn (Ultimate Edition)
 
 ![Version](https://img.shields.io/badge/version-1.3.0_Ultimate-blue) ![Python](https://img.shields.io/badge/python-3.10+-yellow) ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![License](https://img.shields.io/badge/license-MIT-green)
